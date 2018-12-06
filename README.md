@@ -13,7 +13,7 @@ Check out our [list of existing chapters](https://proto.school/chapters.html) to
 
 >Hi, I would like to start a ProtoSchool chapter for [name of geographic community]. I am [@YourTwitterName] on twitter and work at/on [project/organization]. I will be co-organizing this chapter with [names of other organizers]. I have been using [IPFS/IPLD/libPp2p/Multiformats] for X months and would like to help others learn as well.
 
-Be sure to send us your requested chapter name, which must be short and all lower case. It should ideally be the name of the city where your workshops will be held, or alternatively an area that's small yet meaningful. Choose `san-francisco` or `bay-area` instead of `california` or `usa`.
+Be sure to send us your requested chapter name, which must be short and all lower case. It should ideally be the name of the city where your workshops will be held. Choose `san-francisco` instead of `bay-area`, `california` or `usa`.
 
 An existing owner will need to respond and create your chapter repository for you.
 
@@ -22,14 +22,14 @@ Once you are an organizer, follow these instructions to set up the web presence 
 **Step 1** | You should have been added to the team called chapter-organizers and should have access to edit the new chapter repo, e.g. https://github.com/protoschool/san-francisco
 
 **Step 2**
-Each chapter can set up their own `gh-pages` branch on their org GitHub pages will automatically route http://proto.school/<reponame> to it.
+Each chapter can set up their own `gh-pages` branch on their org and [GitHub Pages](https://help.github.com/categories/github-pages-basics/) will automatically route http://proto.school/<reponame> to it.
 
 **Step 3** | You should create a Code of Conduct for your website and repository. You can use this template as a starting point. Be sure to make all people feel welcome at your event.
 
 
 **Step 4** | _This step is important for discoverability!_
 
-Once your chapter is up and running, make a pull request to the ProtoSchool website to add a chapter JSON file to the `/chapters` directory. When your request is accepted, your chapter will be automatically added to the listings at http://proto.school/chapters.html
+Once your chapter is up and running, make a pull request to the ProtoSchool website to add a chapter JSON file to the `/chapters` directory. When your request is accepted, your chapter will be automatically added to the listings at http://proto.school/#/chapters
 
 Your chapter JSON file should look something like this:
 
@@ -49,9 +49,9 @@ Please be sure to format your JSON data according to the following guidelines. (
 
 | Field | Description |
 | --- | --- |
-| **name** | Whatever you call your events, often <location> ProtoSchool |
-| **location**	 | This appears on the chapters.html page, often <City> or <City, State> but can be any geocode-able string |
-| country	 |  If your location isn't itself a country, use this field to list the ISO-3166 2-letter country code for consistency |
+| **name** | Whatever you call your events, often "ProtoSchool <City> " |
+| **city**	 | The name of your city or town, which will appear on the Chapters page, often <City> or <City, State> but can be any geocode-able string |
+| **country**	 |  Please list your country's [ISO-3166 2-letter country code](https://en.wikipedia.org/wiki/ISO_3166-2) for consistency |
 | **region**  |  Choose an existing region from the chapters page if possible--if not then pick a broad, non-country region name |
 | organizers  | An array of GitHub usernames  |
 | website  |  URL of the main website for your chapter, if one exists besides your GitHub repo |
@@ -60,7 +60,7 @@ Please be sure to format your JSON data according to the following guidelines. (
 
 
 ## Why we take this approach to chapter setup
-- Chapters get their own website.
+- Chapters get their own website at http://proto.school/chapter-name" if they push to a `gh-pages` branch.
 - We can easily list all of the chapters on the ProtoSchool website.
 - Chapters get their own "mailing list" in the form of GitHub issues. These can be in other languages as well (e.g. Spanish for Latin American chapters), whereas the main repos are primarily in English.
 - All ProtoSchool event attendees leave with a GitHub account and a community of whom they can ask questions.

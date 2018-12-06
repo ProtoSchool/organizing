@@ -2,7 +2,7 @@
 
 ### What is ProtoSchool?
 
-ProtoSchool is an educational community dedicated to making it easy to get started with decentralized technologies. It's an initiative of [Protocol Labs](https://protocol.ai/), which sponsors such open source projects as [IPFS](https://ipfs.io/), [IPLD](https://ipld.io/), [libp2p](https://libp2p.io/), and [Multiformats](https://multiformats.io/). However, we depend on volunteers to develop our coding workshops and make our content available at chapters around the world through live events. We always need more volunteers, and there are always things to do!
+ProtoSchool is an educational community dedicated to making it easy to get started with decentralized technologies. It's a community-driven effort that relies on our many awesome contributors to develop coding workshops and make this content available at chapters around the world through live events. We always need more help, and there are lots of ways to pitch in and take an active role in supporting our work.
 
 ProtoSchool has two main initiatives:
 
@@ -12,13 +12,14 @@ ProtoSchool has two main initiatives:
 As a community, we support the following principles:
 
 - Beginners should feel welcome
+- Chapters should operate autonomously
 - Chapters should experiment with new ways to engage their community, and share approaches with other chapters over time
 - Events should be affordable and should strive towards diversity and inclusiveness
 - We are 100% open source and like to license things as open source/creative commons
 
 ### Where does the name come from?
 
-The "Proto" in ProtoSchool represents the networking protocols that support the decentralized web, and is a shout-out to [Protocol Labs](https://protocol.ai/), the organization that sponsors our work.
+The "Proto" in ProtoSchool represents the networking protocols that support the decentralized web.
 
 We also take a _lot_ of inspiration from [NodeSchool](https://nodeschool.io/). (Imitation is the sincerest form of flattery, and all that jazz.)
 
@@ -46,14 +47,20 @@ In some cases, the best way to help will be by answering questions directly. In 
 
 #### Improve a workshop
 
-The code for our workshops lives at https://github.com/protoschool/protoschool.github.io and is maintained by @terichadbourne, with lots of help from our amazing volunteers. You can check out the [open issues](https://github.com/protoschool/protoschool.github.io/issues/?is=open) to find one you can jump in and help with.
+We'd love your help improving our workshop content!
+
+The code for our workshops lives at https://github.com/protoschool/protoschool.github.io and active maintainers include:
+- @terichadbourne
+- @mikeal
+
+New contributors are welcome! You can check out the [open issues](https://github.com/protoschool/protoschool.github.io/issues/?is=open) to find one you can jump in and help with.
 
 
 #### Create a new workshop
 
-Have an idea for a new workshop?
+We're excited to add new workshops to our collection, and we'd love your help generating ideas or building the code. Currently the primary focus is on [IPFS](https://ipfs.io/), but we'll be adding workshops on [IPLD](https://ipld.io/), [libp2p](https://libp2p.io/), and [Multiformats](https://multiformats.io/) as we go.
 
-ProtoSchool is new, and we're excited to have your help building our content! Currently the primary focus is on IPFS, but we'll be adding workshops on IPLD, libp2p, and Multiformats as we go.
+Have an idea for a new workshop?
 
 Take a look at the [workshop ideas](https://github.com/protoschool/protoschool.github.io/labels/new%20workshop) flagged with the `new workshop` tag in the ProtoSchool issue queue. If there's a similar idea there already, join the conversation!
 
