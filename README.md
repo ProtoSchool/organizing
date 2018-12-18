@@ -38,9 +38,11 @@ reporting any incidents to chapter leadership.
 
 **Step 4** | _This step is important for discoverability!_
 
-Once your chapter is up and running, make a pull request to the ProtoSchool website to add a chapter JSON file to the `/chapters` directory. When your request is accepted, your chapter will be automatically added to the listings at http://proto.school/#/chapters
+Once your chapter is up and running, make a pull request to the ProtoSchool website
+to add you chapter to the existing `chapters.json` file in the `/chapters` directory.
+When your pull request is accepted, your chapter will be automatically added to the listings at http://proto.school/#/chapters
 
-Your chapter JSON file should look something like this:
+Your addition to the `chapters.json` file should look something like this:
 
 ```
 {
