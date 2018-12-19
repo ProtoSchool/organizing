@@ -7,7 +7,7 @@ _For more background on ProtoSchool or other ways to get involved, like building
 
 ## How to start a new ProtoSchool chapter
 
-Whether you're an existing organizer or hope to become one, please read our [Code of Conduct](https://github.com/ipfs/community/blob/master/code-of-conduct.md). All chapter organizers are expected to follow these guidelines to ensure the ProtoSchool community remains a welcoming place for all learners.
+Whether you're an existing organizer or hope to become one, please read our [Code of Conduct](https://github.com/protoschool/organizing/blob/master/CODE_OF_CONDUCT.md). All chapter organizers are expected to follow these guidelines to ensure the ProtoSchool community remains a welcoming place for all learners.
 
 Check out our [list of existing chapters](https://proto.school/chapters.html) to see if there's already a group near you. If not, please [open an issue](https://github.com/protoschool/organizing/issues/new?labels=new-chapter&title=New%20Chapter%20Request&body=Please%20introduce%20yourself%20and%20tell%20us%20where%20you'd%20like%20to%20host%20a%20ProtoSchool%20chapter.) on this repo asking to be added as a chapter organizer. This is an opportunity to introduce yourself and why you're interested in organizing. Here's an example to get you started:
 
@@ -24,14 +24,25 @@ Once you are an organizer, follow these instructions to set up the web presence 
 **Step 2**
 Each chapter can set up their own `gh-pages` branch on their org and [GitHub Pages](https://help.github.com/categories/github-pages-basics/) will automatically route http://proto.school/<reponame> to it.
 
-**Step 3** | You should create a Code of Conduct for your website and repository. You can use this template as a starting point. Be sure to make all people feel welcome at your event.
+**Step 3**
+You should create a Code of Conduct for your website and repository. The [Contributor Covenant](https://www.contributor-covenant.org/) provides a nice template.
+
+You should also create a Code of Conduct for your events, as part of the broader effort
+to make all people feel welcome. The [Conference Code of Conduct](http://confcodeofconduct.com/)
+provides a nice starting point, but will require some adaptation to the specifics
+of your events.
+
+In any Code of Conduct you create, be sure to include contact information for
+reporting any incidents to chapter leadership.
 
 
 **Step 4** | _This step is important for discoverability!_
 
-Once your chapter is up and running, make a pull request to the ProtoSchool website to add a chapter JSON file to the `/chapters` directory. When your request is accepted, your chapter will be automatically added to the listings at http://proto.school/#/chapters
+Once your chapter is up and running, make a pull request to the ProtoSchool website
+to add you chapter to the existing `chapters.json` file in the `/chapters` directory.
+When your pull request is accepted, your chapter will be automatically added to the listings at http://proto.school/#/chapters
 
-Your chapter JSON file should look something like this:
+Your addition to the `chapters.json` file should look something like this:
 
 ```
 {
