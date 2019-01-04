@@ -47,7 +47,7 @@ Your addition to the `chapters.json` file should look something like this:
 ```
 {
   "name": "ProtoSchool San Francisco",
-  "location": "San Francisco, CA",
+  "city": "San Francisco, CA",
   "country": "US",
   "region": "North America",
   "organizers": ["mikeal"],
