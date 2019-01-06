@@ -22,29 +22,39 @@ Once you are an organizer, follow these instructions to set up the web presence 
 **Step 1** | You should have been added to the team called chapter-organizers and should have access to edit the new chapter repo, e.g. https://github.com/protoschool/san-francisco
 
 **Step 2**
-Each chapter can set up their own `gh-pages` branch on their org and [GitHub Pages](https://help.github.com/categories/github-pages-basics/) will automatically route http://proto.school/<reponame> to it.
+
+Update your readme to introduce your chapter. Be sure to note who the chapter organizers are, include a link to a website (if you have one), and note where members can find event listings. If you'll be creating a chapter website (see below), it's fine to keep the readme brief and link there for more detail.
 
 **Step 3**
-You should create a Code of Conduct for your website and repository. The [Contributor Covenant](https://www.contributor-covenant.org/) provides a nice template.
+Create a Code of Conduct for your website and repository. The [Contributor Covenant](https://www.contributor-covenant.org/) provides a nice template.
 
 You should also create a Code of Conduct for your events, as part of the broader effort
 to make all people feel welcome. The [Conference Code of Conduct](http://confcodeofconduct.com/)
 provides a nice starting point, but will require some adaptation to the specifics
 of your events.
 
-In any Code of Conduct you create, be sure to include contact information for
-reporting any incidents to chapter leadership.
+In any Code of Conduct you create, be sure to **include contact information and a procedure for
+reporting any incidents to chapter leadership**.
+
+**Step 4 (Optional)**
+Each chapter can set up their own `gh-pages` branch on their org and [GitHub Pages](https://help.github.com/categories/github-pages-basics/) will automatically route http://proto.school/<reponame> to it.
+
+(If you prefer to build a website on another platform or use a Meetup page as your website, that's fine, you just won't be able to host it on our domain.)
 
 
-**Step 4** | _This step is important for discoverability!_
+**Step 5** | _This step is important for discoverability!_
 
 Once your chapter is up and running, make a pull request to the ProtoSchool website
 to add you chapter to the existing `chapters.json` file in the `/chapters` directory.
 When your pull request is accepted, your chapter will be automatically added to the listings at http://proto.school/#/chapters
 
+You may take this step before or without building a chapter website, as long as you've completed the other
+steps described above to get your repo set up. Should you decide to build a website later, be sure to create a new PR adding your website URL to your chapter listing so that users will be directed to your website instead of your repo.
+
 Your addition to the `chapters.json` file should look something like this:
 
 ```
+,
 {
   "name": "ProtoSchool San Francisco",
   "city": "San Francisco, CA",
@@ -66,7 +76,7 @@ Please be sure to format your JSON data according to the following guidelines. (
 | **region**  |  Choose an existing region from the chapters page if possible--if not then pick a broad, non-country region name |
 | organizers  | An array of GitHub usernames  |
 | website  |  URL of the main website for your chapter, if one exists besides your GitHub repo |
-| **repo** |  GitHub repo URL |
+| **repo** |  GitHub repo URL (if no website field exists, your chapter listing will direct to this URL)|
 | other   | Any other services like Twitter, Gitter, etc. that exist for the chapter (not the organizer's info)  |
 
 
