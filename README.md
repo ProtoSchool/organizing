@@ -2,8 +2,7 @@
 
 Organizing a ProtoSchool chapter? Wish you were? You're in the right place!
 
-_For more background on ProtoSchool or other ways to get involved, like building workshops, check out our [guide to contributing](https://github.com/protoschool/organizing/blob/master/CONTRIBUTING.md)._
-
+_For more background on ProtoSchool or other ways to get involved, like building workshops, check out our [guide to contributing](https://github.com/protoschool/organizing/blob/master/CONTRIBUTING.md) or view our [launch presentation](https://github.com/protoschool/organizing/blob/master/presentations/ProtoSchool_Launch_Preso_2019-01-14.pdf)._
 
 ## How to start a new ProtoSchool chapter
 
