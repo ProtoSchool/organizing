@@ -9,6 +9,8 @@ ProtoSchool has two main initiatives:
 - Building and maintaining workshops that teach about the protocols underlying the decentralized web, hosted at [https://proto.school/#/](https://proto.school/#/)
 - Organizing educational events around the world
 
+_Learn more in our [launch presentation](https://github.com/protoschool/organizing/blob/master/presentations/ProtoSchool_Launch_Preso_2019-01-14.pdf)._ 
+
 As a community, we support the following principles:
 
 - Beginners should feel welcome
