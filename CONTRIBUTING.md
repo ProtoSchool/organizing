@@ -29,7 +29,7 @@ We also take a _lot_ of inspiration from [NodeSchool](https://nodeschool.io/). (
 
 #### Join (or start) a local chapter
 
-See if there is a [chapter near you](http://proto.school/#/chapters.html). Each chapter gets their own github repo, e.g. https://github.com/protoschool/san-francisco. These repos usually serve at least two purposes (maybe more):
+See if there is a [chapter near you](http://proto.school/#/chapters). Each chapter gets their own github repo, e.g. https://github.com/protoschool/san-francisco. These repos usually serve at least two purposes (maybe more):
 
 - host a chapter page on the `gh-pages` branch ([example](https://github.com/protoschool/san-francisco/tree/gh-pages))
 - provice a discussion board for the chapter using GitHub Issues ([example](https://github.com/protoschool/san-francisco/issues))
