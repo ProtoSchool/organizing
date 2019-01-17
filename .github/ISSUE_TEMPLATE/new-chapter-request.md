@@ -18,7 +18,7 @@ _Please tell us a bit about your interest in the decentralized web! Be sure to s
 _Will anyone else be co-organizing with you? If so, please be sure to share their GitHub handle so we can include everyone needed when setting up your repo._
 
 **What geographic area will your ProtoSchool chapter serve?**
-_In most cases, this should be a city. (Don't forget to add your location to the title of this issues as well!)_
+_In most cases, this should be a city. (Don't forget to add your location to the title of this issue as well!)_
 
 **What should we call your repo?** 
 _In almost all cases, this will be the name of your city, with hyphens if multiple words, such as `los-angeles`._
