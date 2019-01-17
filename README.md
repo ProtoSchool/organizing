@@ -87,3 +87,7 @@ Please be sure to format your JSON data according to the following guidelines. (
 - Chapters get their own "mailing list" in the form of GitHub issues. These can be in other languages as well (e.g. Spanish for Latin American chapters), whereas the main repos are primarily in English.
 - All ProtoSchool event attendees leave with a GitHub account and a community of whom they can ask questions.
 - Since all chapter members are [open open source](https://github.com/Level/community/blob/master/CONTRIBUTING.md) style contributors, everyone is empowered to help moderate discussions and improve the chapter website.
+
+
+## License
+ProtoSchool is licensed under the Apache-2.0 and MIT licenses. See [LICENSE.md](https://github.com/protoschool/organizing/blob/master/LICENSE.md) for further detail.
