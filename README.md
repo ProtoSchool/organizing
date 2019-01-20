@@ -45,8 +45,8 @@ Each chapter can set up their own `gh-pages` branch on their org and [GitHub Pag
 
 **Step 5** | _This step is important for discoverability!_
 
-Once your chapter is up and running, make a pull request to the ProtoSchool website
-to add you chapter to the existing `chapters.json` file, found at `src/components/chapters/chapters.json`.
+Once your chapter is up and running, make a pull request to the ProtoSchool website (the [protoschool.github.io](https://github.com/ProtoSchool/organizing) repo)
+to add your chapter to the existing `chapters.json` file, found at `src/components/chapters/chapters.json`.
 When your pull request is accepted, your chapter will be automatically added to the listings at http://proto.school/#/chapters
 
 You may take this step before or without building a chapter website, as long as you've completed the other
