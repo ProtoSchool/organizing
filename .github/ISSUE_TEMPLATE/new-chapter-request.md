@@ -20,8 +20,11 @@ _Will anyone else be co-organizing with you? If so, please be sure to share thei
 **What geographic area will your ProtoSchool chapter serve?**
 _In most cases, this should be a city. (Don't forget to add your location to the title of this issue as well!)_
 
-**What should we call your repo?** 
+**What should we call your repo?**
 _In almost all cases, this will be the name of your city, with hyphens if multiple words, such as `los-angeles`._
 
+**Have you read and do you agree to abide by the ProtoSchool Code of Conduct?**
+_All chapter organizers must review and agree to abide by the overarching [ProtoSchool Code of Conduct](https://github.com/ProtoSchool/organizing/blob/master/CODE_OF_CONDUCT.md)._
+
 **How should Code of Conduct violations within your chapter be reported?**
-_Although ProtoSchool has an overarching [Code of Conduct](https://github.com/ProtoSchool/organizing/blob/master/CODE_OF_CONDUCT.md) for the community as a whole, it will be your responsibility as a chapter organizer to ensure an inclusive and welcoming community by enforcing a Code of Conduct specific to your own chapter's repo, website (if applicable), and live events. Please provide an email address and any additional contact information that your members may use to report any violations to your chapter's Code of Conduct._
+_Although ProtoSchool has an overarching [Code of Conduct](https://github.com/ProtoSchool/organizing/blob/master/CODE_OF_CONDUCT.md) for the community as a whole, it will be your responsibility as a chapter organizer to ensure an inclusive and welcoming community by enforcing a Code of Conduct specific to your own chapter's repo, website (if applicable), and live events. Please provide an email address and any additional contact information that your members may use to report any violations of your chapter's Code of Conduct._
