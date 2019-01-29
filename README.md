@@ -2,7 +2,7 @@
 
 Organizing a ProtoSchool chapter? Wish you were? You're in the right place!
 
-_For more background on ProtoSchool or other ways to get involved, like building workshops, check out our [guide to contributing](https://github.com/protoschool/organizing/blob/master/CONTRIBUTING.md) or view our [launch presentation](https://github.com/protoschool/organizing/blob/master/presentations/ProtoSchool_Launch_Preso_2019-01-14.pdf)._
+_For more background on ProtoSchool or other ways to get involved, like building tutorials, check out our [guide to contributing](https://github.com/protoschool/organizing/blob/master/CONTRIBUTING.md) or view our [launch presentation](https://github.com/protoschool/organizing/blob/master/presentations/ProtoSchool_Launch_Preso_2019-01-14.pdf)._
 
 ## How to start a new ProtoSchool chapter
 
@@ -12,7 +12,7 @@ Check out our [list of existing chapters](https://proto.school/#/chapters) to se
 
 >Hi, I would like to start a ProtoSchool chapter for [name of geographic community]. I am [@YourTwitterName] on twitter and work at/on [project/organization]. I will be co-organizing this chapter with [names of other organizers]. I have been using [IPFS/IPLD/libPp2p/Multiformats] for X months and would like to help others learn as well.
 
-Be sure to send us your requested chapter name, which must be short and all lower case. It should ideally be the name of the city where your workshops will be held. Choose `san-francisco` instead of `bay-area`, `california` or `usa`.
+Be sure to send us your requested chapter name, which must be short and all lower case. It should ideally be the name of the city where your events will be held. Choose `san-francisco` instead of `bay-area`, `california` or `usa`.
 
 As a chapter organizer, you'll be responsible making all members feel welcome, which means upholding and enforcing your chapter's own Code of Conduct. You'll need to supply contact information that can be used by members to report and violations of that CoC within your chapter's repo or events.
 
