@@ -48,4 +48,4 @@ All requests must be placed **at least 1.5 weeks prior to your event** to ensure
 
 ### ProtoSchool logo files
 
-Whether you're building a chapter website or a slide deck for your next presentation, you may want to include the ProtoSchool logo. You can find design files in both svg and png formats, as well as a favicon image for your website, in our [assets directory](/assets).
+Whether you're building a chapter website or a slide deck for your next presentation, you may want to include the ProtoSchool logo. You can find design files in both SVG and PNG formats, as well as a favicon image for your website, in our [assets directory](/assets).
