@@ -18,7 +18,7 @@ Be sure to send us your requested chapter name, which must be short and all lowe
 
 As a chapter organizer, you'll be responsible making all members feel welcome, which means upholding and enforcing your chapter's own Code of Conduct. You'll need to supply contact information that can be used by members to report and violations of that CoC within your chapter's repo or events.
 
-Once you submit your request, a maintainer will respond with any questions and will then help to set up your chapter repository.
+Once you submit your request, a maintainer will respond with any questions and will then help to set up your chapter repository. Please be sure to [enable  two-factor authentication (2FA) for your GitHub account](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/) so that we can invite you to manage your new chapter repo!
 
 Once you are an organizer, follow these instructions to set up the web presence for your ProtoSchool chapter:
 
