@@ -44,7 +44,7 @@ To request ProtoSchool stickers, please email [swag+request@protocol.ai](swag+re
 - Name and mailing address where stickers should be sent
 - Event name and date
 
-All requests must be placed **at least 1.5 weeks prior to your event** to ensure we have enough shipping time.
+All requests must be placed **at least 1.5 weeks prior to your event** to ensure we have enough shipping time. You'll receive an email with tracking details when your swag order has shipped. 
 
 ### ProtoSchool logo files
 
