@@ -37,7 +37,7 @@ Let's face it, everyone loves swag!
 
 **ProtoSchool hex stickers** are now available for you to share with attendees at your local events! 🎉 You can [view the sticker design here](/assets/swag/protoschool_sticker_digital_use_only.png). (Note that this image represents the final product and is only for digital use. It does not include the cut lines and bleed required by printers.)
 
-To request ProtoSchool stickers, please email [swag@protocol.ai](swag@protocol.ai) and provide the following details:
+To request ProtoSchool stickers, please email [swag+request@protocol.ai](swag+request@protocol.ai) and provide the following details:
 
 - Chapter name
 - Quantity of ProtoSchool stickers requested
