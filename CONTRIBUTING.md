@@ -2,14 +2,14 @@
 
 ### What is ProtoSchool?
 
-ProtoSchool is an educational community dedicated to making it easy to get started with decentralized technologies. It's a community-driven effort that relies on our many awesome contributors to develop coding workshops and make this content available at chapters around the world through live events. We always need more help, and there are lots of ways to pitch in and take an active role in supporting our work.
+ProtoSchool is an educational community dedicated to making it easy to get started with decentralized technologies. It's a community-driven effort that relies on our many awesome contributors to develop coding tutorials and make this content available at chapters around the world through live events. We always need more help, and there are lots of ways to pitch in and take an active role in supporting our work.
 
 ProtoSchool has two main initiatives:
 
-- Building and maintaining workshops that teach about the protocols underlying the decentralized web, hosted at [https://proto.school/#/](https://proto.school/#/)
+- Building and maintaining tutorials that teach about the protocols underlying the decentralized web, hosted at [https://proto.school/#/](https://proto.school/#/)
 - Organizing educational events around the world
 
-_Learn more in our [launch presentation](https://github.com/protoschool/organizing/blob/master/presentations/ProtoSchool_Launch_Preso_2019-01-14.pdf)._ 
+_Learn more in our [launch presentation](https://github.com/protoschool/organizing/blob/master/presentations/ProtoSchool_Launch_Preso_2019-01-14.pdf)._
 
 As a community, we support the following principles:
 
@@ -39,43 +39,43 @@ There might be an issue for new or prospective members to introduce themselves, 
 If there is no local chapter near you and you'd like to start one, [check out our guide](https://github.com/protoschool/organizing/#how-to-start-a-new-protoschool-chapter) for instructions on how to get started.
 
 #### Help answer questions and provide tech support
-All of our workshops point people at this issue board when they get stuck:
+All of our tutorials point people at this issue board when they get stuck:
 
 [https://github.com/protoschool/protoschool.github.io/issues](https://github.com/ipfs-shipyard/proto.school/issues)
 
 Questions we receive there range from beginner to advanced. You can click "Watch" on that repo to get emails in your inbox when new people ask questions. This helps us out a lot!
 
-In some cases, the best way to help will be by answering questions directly. In others, it will be to improve the workshop so the instructions are more clear (see below).
+In some cases, the best way to help will be by answering questions directly. In others, it will be to improve the tutorial so the instructions are more clear (see below).
 
-#### Improve a workshop
+#### Improve a tutorial
 
-We'd love your help improving our workshop content!
+We'd love your help improving our tutorial content!
 
-The code for our workshops lives at https://github.com/protoschool/protoschool.github.io and active maintainers include:
+The code for our tutorials lives at https://github.com/protoschool/protoschool.github.io and active maintainers include:
 - @terichadbourne
 - @mikeal
 
 New contributors are welcome! You can check out the [open issues](https://github.com/protoschool/protoschool.github.io/issues/?is=open) to find one you can jump in and help with.
 
 
-#### Create a new workshop
+#### Create a new tutorial
 
-We're excited to add new workshops to our collection, and we'd love your help generating ideas or building the code. Currently the primary focus is on [IPFS](https://ipfs.io/), but we'll be adding workshops on [IPLD](https://ipld.io/), [libp2p](https://libp2p.io/), and [Multiformats](https://multiformats.io/) as we go.
+We're excited to add new tutorials to our collection, and we'd love your help generating ideas or building the code. Currently the primary focus is on [IPFS](https://ipfs.io/), but we'll be adding tutorials on [IPLD](https://ipld.io/), [libp2p](https://libp2p.io/), and [Multiformats](https://multiformats.io/) as we go.
 
-Have an idea for a new workshop?
+Have an idea for a new tutorial?
 
-Take a look at the [workshop ideas](https://github.com/protoschool/protoschool.github.io/labels/new%20workshop) flagged with the `new workshop` tag in the ProtoSchool issue queue. If there's a similar idea there already, join the conversation!
+Take a look at the [tutorial ideas](https://github.com/ProtoSchool/protoschool.github.io/labels/new-tutorial) flagged with the `new-tutorial` tag in the ProtoSchool issue queue. If there's a similar idea there already, join the conversation!
 
-If you have an idea for a new workshop that's not yet been proposed, please [open an new issue](https://github.com/protoschool/protoschool.github.io/issues/new?labels=new+workshop) so we can share feedback before you get started. (Don't feel like you have the skills to build a workshop yourself? Please still go ahead and share your idea.)
+If you have an idea for a new tutorial that's not yet been proposed, please [open an new issue](https://github.com/ProtoSchool/protoschool.github.io/issues/new?&labels=new-tutorial&template=tutorial-proposal.md&title=New+Tutorial%3A+%5BProposed+title%5D) so we can share feedback before you get started. (Don't feel like you have the skills to build a tutorial yourself? Please still go ahead and share your idea.)
 
-ProtoSchool workshops are built using Vue.js. Check out our [instructions for developing lessons](https://github.com/protoschool/protoschool.github.io/blob/master/README.md). If the type of lesson you're hoping to create isn't suppported by the current lesson structure, please [open an issue](https://github.com/protoschool/protoschool.github.io/issues/new) to tell us more about what the format you have in mind.
+ProtoSchool tutorials are built using Vue.js. Check out our [instructions for developing lessons](https://github.com/protoschool/protoschool.github.io/blob/master/README.md). If the type of lesson you're hoping to create isn't supported by the current lesson structure, please [open an issue](https://github.com/protoschool/protoschool.github.io/issues/new) to tell us more about what the format you have in mind.
 
 
 #### Improve our documentation
 
 A big part of ProtoSchool is documenting our process in a way that helps other organizers build successful communities around the world.
 
-If you come across something that is unclear, either in a workshop, elsewhere on our website, or in our organizing guidance here in GitHub, please send a pull request with your proposed changes in a new branch.
+If you come across something that is unclear, either in a tutorial, elsewhere on our website, or in our organizing guidance here in GitHub, please send a pull request with your proposed changes in a new branch.
 
 #### Talk with other chapter organizers
 
