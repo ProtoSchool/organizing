@@ -8,9 +8,13 @@ Leading a local ProtoSchool chapter? This is a place for you to find resources, 
 
 ### Advice from fellow chapter leaders
 
-One of the best resources for building a successful ProtoSchool chapter is the experience of other chapter leaders. Check out the [discussion tag in our issue queue](https://github.com/ProtoSchool/organizing/issues?q=is%3Aissue+is%3Aopen+label%3Adiscussion) to find conversations about best practices for event planning and more.  Feel free to open a new issue to share what's working well for you!
+One of the best resources for building a successful ProtoSchool chapter is the experience of other chapter leaders. Check out the [discussion tag in our issue queue](https://github.com/ProtoSchool/organizing/issues?q=is%3Aissue+is%3Aopen+label%3Adiscussion) to find conversations about best practices for event planning and more.  For example, there's a discussion issue all about [planning your first ProtoSchool event](https://github.com/ProtoSchool/organizing/issues/33). Feel free to open a new issue to share what's working well for you!
 
 While you're at it, take a minute to [introduce yourself to your fellow organizers](https://github.com/ProtoSchool/organizing/issues/26)!
+
+### Weekly IPFS Community Working Group call 
+
+Although ProtoSchool content is growing to include more than just IPFS, ProtoSchool is often a topic of discussion the [IPFS Community Working Group weekly call](https://github.com/ipfs/community/issues/384), where we discuss it as just one of many initiatives to grow the IPFS community. Check out the call's [GitHub issue](https://github.com/ipfs/community/issues/384) to find video recordings and meeting notes from from past calls, as well as announcements of upcoming calls, or access the meeting invite on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC). The call is open to all and is typically held at at 16:30 UTC on Thurdays, but you should check the issue or calendar above for scheduling updates, especially during seasons when daylight savings varies globally. 
 
 ### Tips for creating a welcoming and inclusive environment
 
