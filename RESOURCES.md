@@ -12,9 +12,9 @@ One of the best resources for building a successful ProtoSchool chapter is the e
 
 While you're at it, take a minute to [introduce yourself to your fellow organizers](https://github.com/ProtoSchool/organizing/issues/26)!
 
-### Weekly IPFS Community Working Group call 
+### ProtoSchool weekly call
 
-Although ProtoSchool content is growing to include more than just IPFS, ProtoSchool is often a topic of discussion the [IPFS Community Working Group weekly call](https://github.com/ipfs/community/issues/384), where we discuss it as just one of many initiatives to grow the IPFS community. Check out the call's [GitHub issue](https://github.com/ipfs/community/issues/384) to find video recordings and meeting notes from from past calls, as well as announcements of upcoming calls, or access the meeting invite on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC). The call is open to all and is typically held on Thursdays at at 15:30 UTC (roughly March - October) or 16:30 UTC (roughly November - February), based on season. Please check the issue or calendar above to confirm the current time.
+All chapter leaders, tutorial authors, and other contributors to the ProtoSchool community are welcome on the  [ProtoSchool weekly call](https://github.com/ProtoSchool/organizing/issues/47), where we share updates on the steps we're taking to make it easy to get started with decentralized web technologies through both our online tutorials and our local chapter events. Listen in to hear what the project maintainers are working on or share updates from your local chapter. Check out the call's [GitHub issue](https://github.com/ProtoSchool/organizing/issues/47) to find video recordings and meeting notes from from past calls, as well as announcements of upcoming calls, or access the meeting invite on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC). The call is open to all and is typically held on Thursdays at at 15:30 UTC (roughly March - October) or 16:30 UTC (roughly November - February), based on season. Please check the issue or calendar above to confirm the current time.
 
 ### Tips for creating a welcoming and inclusive environment
 
