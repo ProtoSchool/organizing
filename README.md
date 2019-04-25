@@ -66,6 +66,8 @@ Your addition to the `chapters.json` file should look something like this:
   "repo": "http://github.com/protoschool/san-francisco"
 }
 ```
+Notice how a comma is needed after the previous entry and before yours, but not at the end of the list.
+
 Please be sure to format your JSON data according to the following guidelines. (Fields marked in bold are required.)
 
 | Field | Description |
