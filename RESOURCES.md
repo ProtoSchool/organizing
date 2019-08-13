@@ -12,6 +12,10 @@ One of the best resources for building a successful ProtoSchool chapter is the e
 
 While you're at it, take a minute to [introduce yourself to your fellow organizers](https://github.com/ProtoSchool/organizing/issues/26)!
 
+### Presentations on managing local communities and leading workshops
+
+At IPFS Camp in 2019, three of our chapter organizers ([@NukeManDan](https://github.com/NukeManDan) from Denver, USA [@kk3wong](https://github.com/kk3wong) from Hong Kong, and [@stefanhans](https://github.com/stefanhans) from Munich, Germany) led an elective workshop on [Stewarding a Local IPFS Community and Meetup/Workshop](https://github.com/ipfs/camp/blob/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_F/README.md), which includes tips for running your local ProtoSchool chapter and leading effective workshops. Check out the [slides](https://docs.google.com/presentation/d/1OLmSfOMjffl7z2ODxHaBcQBmyVEGdt8O7h3bxYv_VVI/edit#slide=id.g4c43915634_2_51)! 
+
 ### ProtoSchool weekly call
 
 All chapter leaders, tutorial authors, and other contributors to the ProtoSchool community are welcome on the  [ProtoSchool weekly call](https://github.com/ProtoSchool/organizing/issues/47), where we share updates on the steps we're taking to make it easy to get started with decentralized web technologies through both our online tutorials and our local chapter events. Listen in to hear what the project maintainers are working on or share updates from your local chapter. Check out the call's [GitHub issue](https://github.com/ProtoSchool/organizing/issues/47) to find video recordings and meeting notes from from past calls, as well as announcements of upcoming calls, or access the meeting invite on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC). The call is open to all and is typically held on Thursdays at at 15:30 UTC (roughly March - October) or 16:30 UTC (roughly November - February), based on season. Please check the issue or calendar above to confirm the current time.
