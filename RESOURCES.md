@@ -14,7 +14,7 @@ While you're at it, take a minute to [introduce yourself to your fellow organize
 
 ### Presentations on managing local communities and leading workshops
 
-At IPFS Camp in 2019, three of our chapter organizers ([@NukeManDan](https://github.com/NukeManDan) from Denver, USA [@kk3wong](https://github.com/kk3wong) from Hong Kong, and [@stefanhans](https://github.com/stefanhans) from Munich, Germany) led an elective workshop on [Stewarding a Local IPFS Community and Meetup/Workshop](https://github.com/ipfs/camp/blob/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_F/README.md), which includes tips for running your local ProtoSchool chapter and leading effective workshops. Check out the [slides](https://docs.google.com/presentation/d/1OLmSfOMjffl7z2ODxHaBcQBmyVEGdt8O7h3bxYv_VVI/edit#slide=id.g4c43915634_2_51)! 
+At IPFS Camp in 2019, three of our chapter organizers ([@NukeManDan](https://github.com/NukeManDan) from Denver, USA, [@kk3wong](https://github.com/kk3wong) from Hong Kong, and [@stefanhans](https://github.com/stefanhans) from Munich, Germany) led an elective workshop on [**stewarding a local IPFS community through a ProtoSchool chapter**](https://github.com/ipfs/camp/blob/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_F/README.md), which included specific tips for running your local ProtoSchool chapter and leading effective workshops, as well as advice that would be relevant to running an IPFS meetup in another format. Check out the [slides](https://docs.google.com/presentation/d/1OLmSfOMjffl7z2ODxHaBcQBmyVEGdt8O7h3bxYv_VVI/edit#slide=id.g4c43915634_2_51)! 
 
 ### ProtoSchool weekly call
 
