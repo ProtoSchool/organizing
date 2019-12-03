@@ -1,15 +1,16 @@
 # Resources for Chapter Organizers
 
-Leading a local ProtoSchool chapter? This is a place for you to find resources, from advice to swag.
+Leading a local ProtoSchool chapter? This is a place for you to find resources, from advice to swag to presentation materials.
 - [Advice and Guidance](#advice-and-guidance)
    - [Advice from fellow chapter leaders](#advice-from-fellow-chapter-leaders)
    - [Presentations on managing local communities and leading workshops](#presentations-on-managing-local-communities-and-leading-workshops)
    - [ProtoSchool Community Call](#protoschool-community-call)
    - [Tips for creating a welcoming and inclusive environment](#tips-for-creating-a-welcoming-and-inclusive-environment)
-- [Physical and digital goodies](#physical-and-digital-goodies)
-   - [Swag ("stuff we all get") for local events](#swag-stuff-we-all-get-for-local-events)
+- [Presentation materials and digital assets](#presentation-materials-and-digital-assets)
    - [Presentations on DWeb concepts and protocols](#presentations-on-dweb-concepts-and-protocols)
    - [ProtoSchool logo files](#protoschool-logo-files)
+- [Physical goodies](#physical-goodies)
+   - [Swag ("stuff we all get") for local events](#swag-stuff-we-all-get-for-local-events)
 
 ## Advice and Guidance
 
@@ -46,7 +47,24 @@ As a chapter organizer, you're responsible for maintaing your chapter's Code of 
 - Guidance for implementation and enforcement
   - The Ada Initiave offers great [resources for explaining and enforcing anti-harassment policies](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy_resources)
 
-## Physical and digital goodies
+## Presentation materials and digital assets
+
+### Presentations on DWeb concepts and protocols
+
+Looking for some educational materials in a more traditional format to supplement your hands-on ProtoSchool workshops?
+
+- IPFS
+  - Visit the [IPFS Event Materials](https://github.com/ipfs/community#ipfs-event-materials) section of the IPFS Community repo for slide decks on IPFS in that you may adapt according to the [Creative Commons 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+  - View slide decks and videos from the [core courses at IPFS Camp 2019](https://github.com/ipfs/camp#-core--elective-courses--youtube-playlist). Courses A (Understanding How IPFS Deals with Files) and D (The Lifecycle of Data in DWeb) are particularly beginner-friendly and appropriate for a lecture format. 
+- libp2p
+   - Check out this [Introduction to libp2p](https://github.com/raulk/talks/blob/master/libp2p%20-%20Crosslink%2719%20-%20Introduction%20to%20libp2p%20(Taipei%2C%202019-10-20).pdf) slide deck.
+
+### ProtoSchool logo files
+
+Whether you're building a chapter website or a slide deck for your next presentation, you may want to include the ProtoSchool logo. You can find design files in both SVG and PNG formats, as well as a favicon image for your website, in our [assets directory](/assets).
+
+
+## Physical goodies
 
 ### Swag ("stuff we all get") for local events
 
@@ -63,14 +81,3 @@ To request ProtoSchool stickers, please email [swag+request@protocol.ai](mailto:
 
 All requests must be placed **at least 1.5 weeks prior to your event** to ensure we have enough shipping time. You'll receive an email with tracking details when your swag order has shipped. 
 
-### Presentations on DWeb concepts and protocols
-
-Looking for some educational materials in a more traditional format to supplement your hands-on ProtoSchool workshops?
-- IPFS
-  - Visit the [IPFS Event Materials](https://github.com/ipfs/community#ipfs-event-materials) section of the IPFS Community repo for slide decks on IPFS in that you may adapt according to the [Creative Commons 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
-  - View slide decks and videos from the [core courses at IPFS Camp 2019](https://github.com/ipfs/camp#-core--elective-courses--youtube-playlist). Courses A (Understanding How IPFS Deals with Files) and D (The Lifecycle of Data in DWeb) are particularly beginner-friendly and appropriate for a lecture format. 
-
-
-### ProtoSchool logo files
-
-Whether you're building a chapter website or a slide deck for your next presentation, you may want to include the ProtoSchool logo. You can find design files in both SVG and PNG formats, as well as a favicon image for your website, in our [assets directory](/assets).
