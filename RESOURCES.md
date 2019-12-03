@@ -2,7 +2,14 @@
 
 Leading a local ProtoSchool chapter? This is a place for you to find resources, from advice to swag.
 - [Advice and Guidance](#advice-and-guidance)
+   - [Advice from fellow chapter leaders](#advice-from-fellow-chapter-leaders)
+   - [Presentations on managing local communities and leading workshops](#presentations-on-managing-local-communities-and-leading-workshops)
+   - [ProtoSchool Community Call](#protoschool-community-call)
+   - [Tips for creating a welcoming and inclusive environment](#tips-for-creating-a-welcoming-and-inclusive-environment)
 - [Physical and digital goodies](#physical-and-digital-goodies)
+   - [Swag ("stuff we all get") for local events](#swag-stuff-we-all-get-for-local-events)
+   - [Presentations on DWeb concepts and protocols](#presentations-on-dweb-concepts-and-protocols)
+   - [ProtoSchool logo files](#protoschool-logo-files)
 
 ## Advice and Guidance
 
@@ -16,11 +23,11 @@ While you're at it, take a minute to [introduce yourself to your fellow organize
 
 At IPFS Camp in 2019, three of our chapter organizers ([@NukeManDan](https://github.com/NukeManDan) from Denver, USA, [@kk3wong](https://github.com/kk3wong) from Hong Kong, and [@stefanhans](https://github.com/stefanhans) from Munich, Germany) led an elective workshop on [**stewarding a local IPFS community through a ProtoSchool chapter**](https://github.com/ipfs/camp/blob/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_F/README.md), which included specific tips for running your local ProtoSchool chapter and leading effective workshops, as well as advice that would be relevant to running an IPFS meetup in another format. Check out the [slides](https://docs.google.com/presentation/d/1OLmSfOMjffl7z2ODxHaBcQBmyVEGdt8O7h3bxYv_VVI/edit#slide=id.g4c43915634_2_51)! 
 
-### ProtoSchool weekly call
+### ProtoSchool community call
 
-All chapter leaders, tutorial authors, and other contributors to the ProtoSchool community are welcome on the  [ProtoSchool weekly call](https://github.com/ProtoSchool/organizing/issues/47), where we share updates on the steps we're taking to make it easy to get started with decentralized web technologies through both our online tutorials and our local chapter events. Listen in to hear what the project maintainers are working on or share updates from your local chapter. Check out the call's [GitHub issue](https://github.com/ProtoSchool/organizing/issues/47) to find video recordings and meeting notes from from past calls, as well as announcements of upcoming calls, or access the meeting invite on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC). The call is open to all and is typically held on Thursdays at at 15:30 UTC (roughly March - October) or 16:30 UTC (roughly November - February), based on season. Please check the issue or calendar above to confirm the current time.
+All chapter leaders, tutorial authors, and other contributors to the ProtoSchool community are welcome on the  [ProtoSchool community call](https://github.com/ProtoSchool/organizing/issues/47), where we share updates on the steps we're taking to make it easy to get started with decentralized web technologies through both our online tutorials and our local chapter events. Listen in to hear what the project maintainers are working on or share updates from your local chapter. Check out the call's [GitHub issue](https://github.com/ProtoSchool/organizing/issues/47) to find video recordings and meeting notes from from past calls, as well as announcements of upcoming calls, or access the meeting invite on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC). The call is open to all and is typically held on Thursdays at at 15:30 UTC (roughly March - October) or 16:30 UTC (roughly November - February), based on season. Please check the issue or calendar above to confirm the current time.
 
-You can find recordings of past calls, as well as related videos on the ProtoSchool project, in our [YouTube playlist](https://www.youtube.com/playlist?list=PLuhRWgmPaHtSOTRjgIj2s9wrkItxzA36P).
+You can find links to meeting notes and recordings of past calls in our [archive](https://github.com/ProtoSchool/roadmap/blob/master/meeting-notes/meeting-notes-and-recordings.md), or view all ProtoSchool videos in our [YouTube playlist](https://www.youtube.com/playlist?list=PLuhRWgmPaHtSOTRjgIj2s9wrkItxzA36P).
 
 ### Tips for creating a welcoming and inclusive environment
 
@@ -55,6 +62,14 @@ To request ProtoSchool stickers, please email [swag+request@protocol.ai](mailto:
 - Event name and date
 
 All requests must be placed **at least 1.5 weeks prior to your event** to ensure we have enough shipping time. You'll receive an email with tracking details when your swag order has shipped. 
+
+### Presentations on DWeb concepts and protocols
+
+Looking for some educational materials in a more traditional format to supplement your hands-on ProtoSchool workshops?
+- IPFS
+  - Visit the [IPFS Event Materials](https://github.com/ipfs/community#ipfs-event-materials) section of the IPFS Community repo for slide decks on IPFS in that you may adapt according to the [Creative Commons 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+  - View slide decks and videos from the [core courses at IPFS Camp 2019](https://github.com/ipfs/camp#-core--elective-courses--youtube-playlist). Courses A (Understanding How IPFS Deals with Files) and D (The Lifecycle of Data in DWeb) are particularly beginner-friendly and appropriate for a lecture format. 
+
 
 ### ProtoSchool logo files
 
