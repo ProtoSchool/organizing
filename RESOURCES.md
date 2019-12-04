@@ -55,7 +55,7 @@ Looking for some educational materials in a more traditional format to supplemen
 
 - IPFS
   - Visit the [IPFS Event Materials](https://github.com/ipfs/community#ipfs-event-materials) section of the IPFS Community repo for slide decks on IPFS in that you may adapt according to the [Creative Commons 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
-  - View slide decks and videos from the [core courses at IPFS Camp 2019](https://github.com/ipfs/camp#-core--elective-courses--youtube-playlist). Courses A (Understanding How IPFS Deals with Files) and D (The Lifecycle of Data in DWeb) are particularly beginner-friendly and appropriate for a lecture format. 
+  - View slide decks and videos from the [core courses at IPFS Camp 2019](https://github.com/ipfs/camp#-core--elective-courses--youtube-playlist). Courses A ([Understanding How IPFS Deals with Files](https://youtu.be/Z5zNPwMDYGg)) and D ([The Lifecycle of Data in DWeb](https://youtu.be/fLUq0RkiTBA)) are particularly beginner-friendly and appropriate for a lecture format. 
 - libp2p
    - Check out this [Introduction to libp2p](https://github.com/raulk/talks/blob/master/libp2p%20-%20Crosslink%2719%20-%20Introduction%20to%20libp2p%20(Taipei%2C%202019-10-20).pdf) slide deck.
 
