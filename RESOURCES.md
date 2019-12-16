@@ -8,6 +8,7 @@ Leading a local ProtoSchool chapter? This is a place for you to find resources, 
    - [Tips for creating a welcoming and inclusive environment](#tips-for-creating-a-welcoming-and-inclusive-environment)
 - [Presentation materials and digital assets](#presentation-materials-and-digital-assets)
    - [Presentations on DWeb concepts and protocols](#presentations-on-dweb-concepts-and-protocols)
+   - [ProtoSchool slide templates](#protoschool-slide-templates)
    - [ProtoSchool logo files](#protoschool-logo-files)
 - [Physical goodies](#physical-goodies)
    - [Swag ("stuff we all get") for local events](#swag-stuff-we-all-get-for-local-events)
@@ -59,10 +60,19 @@ Looking for some educational materials in a more traditional format to supplemen
 - libp2p
    - Check out this [Introduction to libp2p](https://github.com/raulk/talks/blob/master/libp2p%20-%20Crosslink%2719%20-%20Introduction%20to%20libp2p%20(Taipei%2C%202019-10-20).pdf) slide deck.
 
+### ProtoSchool slide templates
+We've created a ProtoSchool slide deck template which you may copy and use to create slides for events that teach our ProtoSchool tutorials. It includes a wide variety of adaptable slide formats and icons. All files are shared as view only to present accidental edits to the template. Please be sure to replace any default presenter names, headshots, etc. with your own information. 
+
+The slides are available in a variety of formats: 
+- [PowerPoint](https://drive.google.com/a/protocol.ai/file/d/1i7fE3UXDVU_tSkw2iPPtDa5c1gXiuQFz/view?usp=sharing) (click the download icon near the top right of the screen)
+- [Keynote](https://drive.google.com/file/d/1E74m5DcIRYMH0wcFF_wLn7CPtpDNqqFt/view?usp=sharing) (click the download icon near the top right of the screen)
+- Google Slides 
+     - [Preview file](https://docs.google.com/presentation/d/1-bbbpUdElae6T4eTZvB20pj75bCPVgzfRV7wsDaXh9g/edit?usp=sharing) (can be viewed without a Google login, but you will not be able to edit or copy the file)
+     - [Make a copy](https://docs.google.com/presentation/d/1-bbbpUdElae6T4eTZvB20pj75bCPVgzfRV7wsDaXh9g/copy) (while logged in with a Google account, click the "Make a copy" button to create a copy in your own Google Drive folder)
+     
 ### ProtoSchool logo files
 
-Whether you're building a chapter website or a slide deck for your next presentation, you may want to include the ProtoSchool logo. You can find design files in both SVG and PNG formats, as well as a favicon image for your website, in our [assets directory](/assets).
-
+Whether you're building a chapter website or a slide deck for your next presentation, you may want to include the ProtoSchool logo. You can find design files in both SVG and PNG formats, as well as a favicon image for your chapter website, in our [assets directory](/assets).
 
 ## Physical goodies
 
@@ -81,3 +91,5 @@ To request ProtoSchool stickers, please email [swag+request@protocol.ai](mailto:
 
 All requests must be placed **at least 1.5 weeks prior to your event** to ensure we have enough shipping time. You'll receive an email with tracking details when your swag order has shipped. 
 
+
+  - Visit the [IPFS Event Materials](https://github.com/ipfs/community#ipfs-event-materials) section of the IPFS Community repo for slide decks on IPFS in that you may adapt according to the [Creative Commons 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
