@@ -61,7 +61,7 @@ Looking for some educational materials in a more traditional format to supplemen
    - Check out this [Introduction to libp2p](https://github.com/raulk/talks/blob/master/libp2p%20-%20Crosslink%2719%20-%20Introduction%20to%20libp2p%20(Taipei%2C%202019-10-20).pdf) slide deck.
 
 ### ProtoSchool slide templates
-We've created a ProtoSchool slide deck template which you may copy and use to create slides for events that teach our ProtoSchool tutorials. It includes a wide variety of adaptable slide formats and icons. All files are shared as view only to present accidental edits to the template. Please be sure to replace any default presenter names, headshots, etc. with your own information. 
+We've created a ProtoSchool slide deck template which you may copy and use to create slides for events that teach our ProtoSchool tutorials. It includes a wide variety of adaptable slide formats and icons. All files are shared as view only to prevent accidental edits to the template. Please be sure to replace any default presenter names, headshots, etc. with your own information. 
 
 The slides are available in a variety of formats: 
 - [PowerPoint](https://drive.google.com/a/protocol.ai/file/d/1i7fE3UXDVU_tSkw2iPPtDa5c1gXiuQFz/view?usp=sharing) (click the download icon near the top right of the screen)
