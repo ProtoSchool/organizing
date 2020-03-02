@@ -2,8 +2,8 @@
 
 Leading a local ProtoSchool workshop? This is a place for you to find resources, from advice to swag to presentation materials.
 - [Advice and Guidance](#advice-and-guidance)
-   - [Advice from fellow chapter leaders](#advice-from-fellow-chapter-leaders)
-   - [Presentations on managing local communities and leading workshops](#presentations-on-managing-local-communities-and-leading-workshops)
+   - [Advice from fellow leaders](#advice-from-fellow-leaders)
+   - [Presentations on managing local communities and leading workshops](#presentations-on-managing-local-communities-and-leading-protoschool-workshops)
    - [ProtoSchool Community Call](#protoschool-community-call)
    - [Tips for creating a welcoming and inclusive environment](#tips-for-creating-a-welcoming-and-inclusive-environment)
 - [Presentation materials and digital assets](#presentation-materials-and-digital-assets)
@@ -33,9 +33,13 @@ You can find links to meeting notes and recordings of past calls in our [archive
 
 ### Tips for creating a welcoming and inclusive environment
 
-We take pride in creating a welcoming and inclusive environment for all ProtoSchool community members, both online and at live events. To that end, we have a [Code of Conduct](https://github.com/protoschool/organizing/blob/master/CODE_OF_CONDUCT.md) for the ProtoSchool community as a whole, as well as one for each individual event.
+We take pride in creating a welcoming and inclusive environment for all ProtoSchool community members, both online and at live events. To that end, we have a global [Code of Conduct](https://github.com/protoschool/organizing/blob/master/CODE_OF_CONDUCT.md) for the ProtoSchool community as a whole, as well as requiring event organizers to provide and enforce one for each individual event.
 
-As an event organizer, you're responsible for maintaing your event's Code of Conduct and responding to reports of any concerning incidents. There are a lot of great resources on why Codes of Conduct are important and how you can navigate any issues that may arise.
+As an event organizer, you're responsible for maintaing your event's Code of Conduct, outlining clear reporting procedures for violations, and responding to reports of any concerning incidents. In addition to providing contact details for reporting incidents to your event leadership team, your Code of Conduct will also need to mention our global ProtoSchool Code of Conduct and note that your attendees have the option of reporting your local organizing team to the global ProtoSchool team if you violate the Code of Conduct yourself or fail to address reports appropriately. (See [suggested wording](https://github.com/ProtoSchool/organizing/tree/master/assets/code-of-conduct#referencing-protoschools-global-code-of-conduct-mandatory).)
+
+We've created a [local Code of Conduct template](https://github.com/ProtoSchool/organizing/tree/master/assets/code-of-conduct#using-our-local-code-of-conduct-template-optional) that you are welcome to adapt for your events and which already includes those references. However, you're also welcome to create your own Code of Conduct from scratch or update an existing one you've been using for your educational group. Check out our [detailed guidance](https://github.com/ProtoSchool/organizing/tree/master/assets/code-of-conduct) for both approaches.
+
+There are a lot of great resources on why Codes of Conduct are important and how you can navigate any issues that may arise.
 
 - Code of Conduct templates
   - [Conference Code of Conduct](http://confcodeofconduct.com/) (focused on live events)
@@ -44,9 +48,9 @@ As an event organizer, you're responsible for maintaing your event's Code of Con
     - See available [translations](https://www.contributor-covenant.org/translations)
   - [Conference Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) from the Ada Initiave
 
-
 - Guidance for implementation and enforcement
   - The Ada Initiave offers great [resources for explaining and enforcing anti-harassment policies](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy_resources)
+
 
 ## Presentation materials and digital assets
 
