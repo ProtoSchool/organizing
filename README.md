@@ -54,12 +54,12 @@ Work with the conference organizers to schedule a ProtoSchool workshop as part o
 Take a break from lectures one week and let your students explore a ProtoSchool tutorial with hands-on coding challenge, or schedule a ProtoSchool workshop as part of a student or faculty gathering. If your workshop is open to the public, be sure to submit it for our event listings!
 
 ## Resources for event organizers
-Please explore our [resources document](./RESOURCES.md) document to find helpful tips for event organizers, including:
+Please explore our [resources document](./RESOURCES.md) to find helpful tips for event organizers, including:
    - Advice and guidance on creating welcoming communities, crafting your Code of Conduct, and benefitting from the experiences of other ProtoSchool community leaders
    - Presentation materials and digital assets like slide templates and logo files
    - Instructions for ordering ProtoSchool stickers to give out at your events
 
-We also have an [issue tracker specifically for local organizers](https://github.com/protoschool/organizing/issues), which is a great place to start discussions about best practices for leading local events. watch this `organizing` repo to be notified of these conversations.
+We also have an [issue tracker specifically for local organizers](https://github.com/protoschool/organizing/issues), which is a great place to start discussions about best practices for leading local events. Watch this `organizing` repo to be notified of these conversations.
 
 ## ProtoSchool newsletter
 The new ProtoSchool newsletter offers updates for two audiences. Most subscribers to the newsletter will only receive updates on new ProtoSchool tutorials or features, and we'd love for you to encourage your event attendees to sign up for this news. However, subscribers may optionally sign up for local leadership updates, where we'll share tips and resources for hosting events, like those mentioned above.
