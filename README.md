@@ -1,96 +1,88 @@
-# Organizing ProtoSchool Chapters
+# Organizing Local ProtoSchool Events
 
-Organizing a ProtoSchool chapter? Wish you were? You're in the right place!
+If you're looking for information on hosting ProtoSchool workshops in your community, you're in the right place! Read on to learn more about ProtoSchool's community event model and how you can contribute. It's easier than ever to get started!
 
-_For more background on ProtoSchool or other ways to get involved, like building tutorials, check out our [guide to contributing](./CONTRIBUTING.md) or view our [launch presentation](https://github.com/protoschool/organizing/blob/master/presentations/ProtoSchool_Launch_Preso_2019-01-14.pdf)._
-
-## Chapter setup
-
-### How to start a new ProtoSchool chapter
-
-Whether you're an existing organizer or hope to become one, please read our [Code of Conduct](,/CODE_OF_CONDUCT.md). All chapter organizers are expected to follow these guidelines to ensure the ProtoSchool community remains a welcoming place for all learners.
-
-Check out our [list of existing chapters](https://proto.school/#/chapters) to see if there's already a group near you or the [`new-chapter` tag in our issue queue](https://github.com/ProtoSchool/organizing/issues?q=is%3Aopen+is%3Aissue+label%3Anew-chapter) to see if someone has already asked to create one. If not, please [open an issue](https://github.com/ProtoSchool/organizing/issues/new?assignees=terichadbourne&labels=new-chapter&template=new-chapter-request.md&title=New+Chapter+Request+-+%5BLocation%5D) on this repo asking to be added as a chapter organizer. This is an opportunity to introduce yourself and why you're interested in organizing. Here's an example to get you started:
-
->Hi, I would like to start a ProtoSchool chapter for [name of geographic community]. I am [@YourTwitterName] on twitter and work at/on [project/organization]. I will be co-organizing this chapter with [names of other organizers]. I have been using [IPFS/IPLD/libPp2p/Multiformats] for X months and would like to help others learn as well.
-
-Be sure to send us your requested chapter name, which must be short and all lower case. It should ideally be the name of the city where your events will be held. Choose `san-francisco` instead of `bay-area`, `california` or `usa`.
-
-As a chapter organizer, you'll be responsible making all members feel welcome, which means upholding and enforcing your chapter's own Code of Conduct. You'll need to supply contact information that can be used by members to report and violations of that CoC within your chapter's repo or events.
-
-Once you submit your request, a maintainer will respond with any questions and will then help to set up your chapter repository. Please be sure to [enable  two-factor authentication (2FA) for your GitHub account](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/) so that we can invite you to manage your new chapter repo!
-
-Once you are an organizer, follow these instructions to set up the web presence for your ProtoSchool chapter:
-
-**Step 1** | You should have been added to the team called chapter-organizers and should have admin access to edit the new chapter repo, e.g. https://github.com/protoschool/san-francisco
-
-**Step 2**
-
-Update your readme to introduce your chapter and include calls to action for those discovering your chapter the first time. Be sure to note who the chapter organizers are, include a link to a website (if you have one), and note where members can find event listings. If you'll be creating a chapter website (see below), it's fine to keep the readme brief and link there for more detail.
-
-**Step 3**
-All chapters must have a Code of Conduct for your website and repository. The [Contributor Covenant](https://www.contributor-covenant.org/) provides a nice template.
-
-Chapters must also make it clear how the Code of Conduct applies to their live events, as part of the broader effort to make all people feel welcome. The [Conference Code of Conduct](http://confcodeofconduct.com/)
-provides a nice starting point, but will require some adaptation to the specifics of your events.
-
-We'll provide a starter Code of Conduct for you that adapts and combines the two templates mentioned above, but you are welcome to make changes to your chapter Code of Conduct that are in keeping with the goals of the broader [ProtoSchool Code of Conduct](https://github.com/protoschool/organizing/blob/master/CODE_OF_CONDUCT.md). In any Code of Conduct you create, be sure to **include contact information and a procedure for reporting any incidents to chapter leadership**.
-
-**Step 4 (Optional)**
-Each chapter can set up their own `gh-pages` branch on their org and [GitHub Pages](https://help.github.com/categories/github-pages-basics/) will automatically route http://proto.school/<reponame> to it.
-
-(If you prefer to build a website on another platform or use a Meetup page as your website, that's fine, you just won't be able to host it on our domain.)
+**Quick links for local event leaders**:
+- [View upcoming events](https://proto.school/#/events)
+- [Add your event to our list](https://forms.gle/t1iEzpQAFSYHhpBr9)
+- [Explore our event resources](,/RESOURCES.md)
 
 
-**Step 5** | _This step is important for discoverability!_
+_Not ready to host events quite yet? We'd love your help
+[building new tutorials](https://proto.school/#/build), improving existing ones, answering technical questions, or
+making our documentation more clear. Learn more about the many [ways to contribute](https://proto.school/#/contribute)._
 
-Once your chapter is up and running, make a pull request to the ProtoSchool website (the [protoschool.github.io](https://github.com/ProtoSchool/protoschool.github.io) repo)
-to add your chapter to the existing [`chapters.json`](https://github.com/ProtoSchool/protoschool.github.io/blob/code/src/static/chapters.json) file, found at `src/static/chapters.json`.
-When your pull request is accepted, your chapter will be automatically added to the listings at http://proto.school/#/chapters
+## ProtoSchool workshops
 
-You may take this step before or without building a chapter website, as long as you've completed the other
-steps described above to get your repo set up. Should you decide to build a website later, be sure to create a new PR adding your website URL to your chapter listing so that users will be directed to your website instead of your repo.
+ProtoSchool workshops are run independently by groups and inviduals around the world who
+are excited about introducing others to decentralized web concepts and protocols.
+ProtoSchool is a community-driven effort and is 100% open source. This means that anyone can use the ProtoSchool materials and/or host an event, so long as they adhere to our Code of Conduct and the following event guidelines.
 
-Your addition to the `chapters.json` file should look something like this:
+### Event guidelines
+To be defined as ProtoSchool workshop and promoted on our website, an event must:
+- Offer learners the chance to **work through one of the [ProtoSchool tutorials](https://proto.school/#/tutorials)
+in person with support from mentors**
+- Create a **welcoming and inclusive environment**, supported by a local Code of Conduct aligned with the [global ProtoSchool Code of Conduct](https://github.com/protoschool/organizing/blob/master/CODE_OF_CONDUCT.md)
+- Be **educational**  (not commercial or promotional)
+- Be **not-for-profit** (free or low-cost to attendees)
 
-```
-,
-{
-  "name": "ProtoSchool San Francisco",
-  "city": "San Francisco, CA",
-  "country": "US",
-  "region": "North America",
-  "organizers": ["mikeal"],
-  "website": "http://proto.school/san-francisco",
-  "twitter": "sfprotoschool",
-  "repo": "http://github.com/protoschool/san-francisco"
-}
-```
-Notice how a comma is needed after the previous entry and before yours, but not at the end of the list.
+### The ProtoSchool brand
+The ProtoSchool brand applies to events that meet these guidelines, _not_ to the groups that host them.  If you attend an event labelled as ProtoSchool workshop, you can expect to explore [our tutorials](https://proto.school/#/tutorials) there.
 
-Please be sure to format your JSON data according to the following guidelines. (Fields marked in bold are required.)
+Most of the community groups that host ProtoSchool workshops (as defined above) also host other educational events that _aren't_ ProtoSchool workshops, from talks on IPFS to hackathons focused on decentralized web apps. While neither those events nor the groups themselves should be branded with the ProtoSchool name, they both play an important role in the decentralized web ecosystem that we're honored to be a part of. Our ProtoSchool event listings are a great way to discover community groups or dweb conferences near you, and those community groups are a great way for folks around the world to discover our content.
 
-| Field | Description |
-| --- | --- |
-| **name** | Whatever you call your events, often "ProtoSchool <City> " |
-| **city**	 | The name of your city or town, which will appear on the Chapters page, often <City> or <City, State> but can be any geocode-able string |
-| **country**	 |  Please list your country's [ISO-3166 2-letter country code](https://en.wikipedia.org/wiki/ISO_3166-2) for consistency |
-| **region**  |  Choose an existing region from the chapters page if possible. If not then pick a broad, non-country region name, usually a continent. |
-| organizers  | An array of GitHub usernames  |
-| website  |  URL of the main website for your chapter, if one exists besides your GitHub repo |
-| **repo** |  GitHub repo URL (if no website field exists, your chapter listing will direct to this URL)|
-| other   | Any other services like Twitter, Gitter, etc. that exist for the chapter (not the organizer's info) |
+[Learn more](#what-happened-to-protoschool-chapters) about our move from a chapter-based community model to an event-based model.
 
+## Hosting ProtoSchool workshops
+Whether you want to lead a single workshop at a conference or incorporate
+our curriculum into the content of a longstanding meetup, we're eager to
+have you share ProtoSchool's content with your local community. If you're hosting a workshop that meets the qualifications listed above, we'll be happy to list it on our website, send you ProtoSchool stickers for your attendees, and share template slide decks and other resources. We'll also connect you with a community of local leaders who can share their experiences hosting ProtoSchool workshops in a variety of groups and settings.
 
-### Why we take this approach to chapter setup
-- Chapters get their own website at `https://proto.school/chapter-name` if they push to a `gh-pages` branch.
-- We can easily list all of the chapters on the ProtoSchool website.
-- Chapters get their own "mailing list" in the form of GitHub issues. These can be in other languages as well (e.g. Spanish for Latin American chapters), whereas the main repos are primarily in English.
-- All ProtoSchool event attendees leave with a GitHub account and a community of whom they can ask questions.
-- Since all chapter members are [open open source](https://github.com/Level/community/blob/master/CONTRIBUTING.md) style contributors, everyone is empowered to help moderate discussions and improve the chapter website.
+### Leading an active Meetup or community group with regular monthly meetings?
+If your members are interested in the decentralized web,
+consider mixing ProtoSchool workshops into your existing content. If you
+normally bring in speakers to present on IPFS to an audience of developers,
+try changing the format for your next event by offering a hands-on ProtoSchool
+workshop. There's no need to present ProtoSchool content at every event
+hosted by your group, but when you do schedule a ProtoSchool workshop, fill out a quick form to have that event added to our website. We'll
+help our online community find your local group at an event focused on ProtoSchool, and from there they'll learn about the other great content you offer. Meanwhile, you'll be introducing your local community to ProtoSchool so they can discover the rest of our online content.
 
-## Resources for chapter organizers
-Once your chapter is set up and listed on your website, the fun begins! Please explore [RESOURCES.md](./RESOURCES.md) to find tips on enforcing your Code of Conduct, logo files for your chapter website, ProtoSchool stickers to distribute at your events, and more.
+### Attending an upcoming conference on the decentralized web?
+Work with the conference organizers to schedule a ProtoSchool workshop as part of the offerings, or schedule an evening events outside of conference hours. Mention the conference when you submit the ProtoSchool workshop for inclusion on our website and we'll be sure our audience knows the events are co-located.
+
+### Working in a university setting?
+Take a break from lectures one week and let your students explore a ProtoSchool tutorial with hands-on coding challenge, or schedule a ProtoSchool workshop as part of a student or faculty gathering. If your workshop is open to the public, be sure to submit it for our event listings!
+
+## Resources for event organizers
+Please explore our [resources document](./RESOURCES.md) document to find helpful tips for event organizers, including:
+   - Advice and guidance on creating welcoming communities, crafting your Code of Conduct, and benefitting from the experiences of other ProtoSchool community leaders
+   - Presentation materials and digital assets like slide templates and logo files
+   - Instructions for ordering ProtoSchool stickers to give out at your events
+
+We also have an [issue tracker specifically for local organizers](https://github.com/protoschool/organizing/issues), which is a great place to start discussions about best practices for leading local events. watch this `organizing` repo to be notified of these conversations.
+
+## ProtoSchool newsletter
+The new ProtoSchool newsletter offers updates for two audiences. Most subscribers to the newsletter will only receive updates on new ProtoSchool tutorials or features, and we'd love for you to encourage your event attendees to sign up for this news. However, subscribers may optionally sign up for local leadership updates, where we'll share tips and resources for hosting events, like those mentioned above.
+
+We'll automatically sign you up for local leadership updates when you submit a workshop for inclusion on our website. However, if you don't have an event coming up in the near future, you can subscribe now via our [newsletter signup form](https://school.us4.list-manage.com/subscribe?u=41e9e493c56c3865870435d91&id=967f7cf514). (Be sure to check the "Local Leadership Updates" box.)
+
+## What happened to ProtoSchool chapters?
+We recently switched from a chapter-based community model to an event-based model to
+create a more scalable system that encourages ProtoSchool content to be presented
+either one-off or embedded in a variety of existing educational groups,
+with a lower barrier to entry for event leaders. If you previously attended
+events through a ProtoSchool chapter, you'll now find their upcoming
+ProtoSchool workshops listed on our [events page](https://proto.school/#/events),
+including links to learn about other content the group might offer. (You'll be able to access our [archived chapter listings](https://proto.school/#/chapters) through the end of April.)
+
+If you're looking to host ProtoSchool workshops, you no longer need to apply to start a chapter. Simply review the [event guidelines](#protoschool-workshops) above and [submit your qualifying event](https://forms.gle/t1iEzpQAFSYHhpBr9) for inclusion on our website.
+
+With this move away from the chapter model, the ProtoSchool name now refers only to events that meet our [event guidelines](#protoschool-workshops) and teach our [tutorial content](https://proto.school/#/tutorials), regardless of who hosts them. It will no longer be used to apply to the groups hosting those events (formerly known as ProtoSchool chapters).
+
+If you previously led a ProtoSchool chapter, you can find [more context on the change here](./COMMUNITY_MODEL_UPDATE.md).
+
+## Questions?
+If you have questions on the community event model or what qualifies as a ProtoSchool workshop, please feel free to [email the project maintainers](mailto:protoschool@protocol.ai).
 
 ## License
 ProtoSchool is licensed under the Apache-2.0 and MIT licenses. See [LICENSE.md](./LICENSE.md) for further detail.
