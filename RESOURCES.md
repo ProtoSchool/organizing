@@ -55,7 +55,7 @@ There are a lot of great resources on why Codes of Conduct are important and how
 ## Presentation materials and digital assets
 
 ### ProtoSchool slide templates
-We've created a ProtoSchool slide deck template which you may copy and use to create slides for events that teach our ProtoSchool tutorials. It includes a wide variety of adaptable slide formats and icons. All files are shared as view only to prevent accidental edits to the template. Please be sure to replace any default presenter names, headshots, etc. with your own information.
+We've created a ProtoSchool slide deck template which you may copy and use to create slides for events that teach our ProtoSchool tutorials (see our [event guidelines](./README.md#event-guidelines)). It includes a wide variety of adaptable slide formats and icons. All files are shared as view only to prevent accidental edits to the template. Please be sure to replace any default presenter names, headshots, etc. with your own information.
 
 The slides are available in a variety of formats:
 - [PowerPoint](https://drive.google.com/a/protocol.ai/file/d/1i7fE3UXDVU_tSkw2iPPtDa5c1gXiuQFz/view?usp=sharing) (click the download icon near the top right of the screen)
@@ -65,7 +65,7 @@ The slides are available in a variety of formats:
      - [Make a copy](https://docs.google.com/presentation/d/1-bbbpUdElae6T4eTZvB20pj75bCPVgzfRV7wsDaXh9g/copy) (while logged in with a Google account, click the "Make a copy" button to create a copy in your own Google Drive folder)
      -
 ### ProtoSchool logo files
-Whether you're building an event website or a slide deck for your next presentation, you may want to include the ProtoSchool logo. You can find design files in both SVG and PNG formats, as well as a favicon image for your chapter website, in our [assets directory](/assets).
+Whether you're building an event website or a slide deck for your next [qualified ProtoSchool workshop](./README.md#event-guidelines), you may want to include the ProtoSchool logo. You can find design files in both SVG and PNG formats, as well as a favicon image for your event website, in our [assets directory](/assets).
 
 ### Presentations on DWeb concepts and protocols
 Looking for some educational materials in a more traditional format to supplement your hands-on ProtoSchool workshops at other events organized by your group?

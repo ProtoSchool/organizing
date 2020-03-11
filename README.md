@@ -26,10 +26,10 @@ in person with support from mentors**
 - Be **educational**  (not commercial or promotional)
 - Be **not-for-profit** (free or low-cost to attendees)
 
-### The ProtoSchool brand
-The ProtoSchool brand applies to events that meet these guidelines, _not_ to the groups that host them.  If you attend an event labelled as ProtoSchool workshop, you can expect to explore [our tutorials](https://proto.school/#/tutorials) there.
+### The ProtoSchool name
+The ProtoSchool name applies to events that meet these guidelines, _not_ to the groups that host them.  If you attend an event labelled as ProtoSchool workshop, you can expect to explore [our tutorials](https://proto.school/#/tutorials) there.
 
-Most of the community groups that host ProtoSchool workshops (as defined above) also host other educational events that _aren't_ ProtoSchool workshops, from talks on IPFS to hackathons focused on decentralized web apps. While neither those events nor the groups themselves should be branded with the ProtoSchool name, they both play an important role in the decentralized web ecosystem that we're honored to be a part of. Our ProtoSchool event listings are a great way to discover community groups or dweb conferences near you, and those community groups are a great way for folks around the world to discover our content.
+Most of the community groups that host ProtoSchool workshops (as defined above) also host other educational events that _aren't_ ProtoSchool workshops, from talks on IPFS to hackathons focused on decentralized web apps. While neither those events nor the groups themselves should be labelled with the ProtoSchool name or logo, they both play an important role in the decentralized web ecosystem that we're honored to be a part of. Our ProtoSchool event listings are a great way to discover community groups or dweb conferences near you, and those community groups are a great way for folks around the world to discover our content.
 
 [Learn more](#what-happened-to-protoschool-chapters) about our move from a chapter-based community model to an event-based model.
 

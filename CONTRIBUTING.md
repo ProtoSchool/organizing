@@ -13,7 +13,7 @@ As a community, we support the following principles:
 
 -   Beginners should feel welcome
 -   Local event leaders should operate autonomously
--   Local event leaders should experiment with new ways to engage their community, and share approaches with other chapters over time
+-   Local event leaders should experiment with new ways to engage their community, and share approaches with other communities over time
 -   Events should be affordable and should strive towards diversity and inclusiveness
 -   We are 100% open source and like to license things as open source/creative commons
 
