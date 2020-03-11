@@ -29,7 +29,7 @@ We welcome new contributors to the ProtoSchool community and there are many ways
 
 You'll find relevant project info split across a variety of repos:
 
--   [`organizing` repo](https://github.com/protoschool/protoschool.github.io): local event leadership resources
+-   [`organizing` repo](https://github.com/protoschool/organizing): local event leadership resources
 -   [`protoschool.github.io` repo](https://github.com/protoschool/protoschool.github.io): website and tutorial development
 -   [`roadmap` repo](https://github.com/protoschool/roadmap): project roadmap and objectives
 
