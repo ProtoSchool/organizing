@@ -47,7 +47,7 @@ As always, if you prefer that your chapter listing link to a website for your gr
   "twitter": "sfprotoschool"
 }
 ```
-After April, the chapters page will be removed from our website and learners will discover your group exclusively through our [events page](https://proto.school/#/chapters). (We'll provide a redirect for any visitors looking for the old chapters page.)
+After April, the chapters page will be removed from our website and learners will discover your group exclusively through our [events page](https://proto.school/#/events). (We'll provide a redirect for any visitors looking for the old chapters page.)
 
 **At the end of April, chapter repos in the ProtoSchool GitHub organization will either be archived or have their ownership transferred, based on your preference:**
 
