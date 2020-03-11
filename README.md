@@ -5,7 +5,7 @@ If you're looking for information on hosting ProtoSchool workshops in your commu
 **Quick links for local event leaders**:
 - [View upcoming events](https://proto.school/#/events)
 - [Add your event to our list](https://forms.gle/t1iEzpQAFSYHhpBr9)
-- [Explore our event resources](,/RESOURCES.md)
+- [Explore our event resources](./RESOURCES.md)
 
 
 _Not ready to host events quite yet? We'd love your help
