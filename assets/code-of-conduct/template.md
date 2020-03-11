@@ -20,7 +20,7 @@ include:
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
-Examples of unacceptable behavior by participants, both online and in person, such as at chapter events, include:
+Examples of unacceptable behavior by participants, both online and in person, such as at ProtoSchool events, include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or
   advances
@@ -85,12 +85,12 @@ faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
 #### Additional reporting options for ProtoSchool workshops
-When our organization hosts ProtoSchool workshops, our organizers and participants 
-are bound by the global ProtoSchool Code of Conduct in addition to all local policies 
-shared here.  In the case of a conflict of interest with the local organizing team, 
-of if you feel that the local organizers are not living up to the standards laid out 
-in this Code of Conduct, please follow the reporting procedures laid out in the broader 
-[ProtoSchool Code of Conduct](https://github.com/ProtoSchool/organizing/blob/master/CODE_OF_CONDUCT.md) 
+When our organization hosts ProtoSchool workshops, our organizers and participants
+are bound by the global ProtoSchool Code of Conduct in addition to all local policies
+shared here.  In the case of a conflict of interest with the local organizing team,
+of if you feel that the local organizers are not living up to the standards laid out
+in this Code of Conduct, please follow the reporting procedures laid out in the broader
+[ProtoSchool Code of Conduct](https://github.com/ProtoSchool/organizing/blob/master/CODE_OF_CONDUCT.md)
 to reach the project's lead maintainers.
 
 ## Attribution
