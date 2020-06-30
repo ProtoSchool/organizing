@@ -2,9 +2,9 @@
 
 Leading a local ProtoSchool workshop? This is a place for you to find resources, from advice to swag to presentation materials.
 - [Advice and Guidance](#advice-and-guidance)
+   - [ProtoSchool Newsletter](#protoschool-newsletter)
    - [Advice from fellow leaders](#advice-from-fellow-leaders)
    - [Presentations on managing local communities and leading workshops](#presentations-on-managing-local-communities-and-leading-protoschool-workshops)
-   - [ProtoSchool Community Call](#protoschool-community-call)
    - [Tips for creating a welcoming and inclusive environment](#tips-for-creating-a-welcoming-and-inclusive-environment)
 - [Presentation materials and digital assets](#presentation-materials-and-digital-assets)
    - [ProtoSchool slide templates](#protoschool-slide-templates)
@@ -15,6 +15,15 @@ Leading a local ProtoSchool workshop? This is a place for you to find resources,
 
 ## Advice and Guidance
 
+### ProtoSchool Newsletter
+
+[Subscribe to the ProtoSchool newsletter](https://proto.school/#/news), being sure to check the box to receive local leadership updates. These targeted, occasional emails will include tips on hosting events, presentation resources, info on any new swag, etc.
+
+<img src="https://user-images.githubusercontent.com/19171465/86145956-96d3ad80-bac5-11ea-8a26-a9028f2d43c1.png" height="200" />
+
+Please share newsletter link (https://proto.school/#/news) at your local events so that attendees can stay up to date as well. Those who don't check the box for leadership updates will receive emails only when we launch new tutorials or major site features. 
+
+
 ### Advice from fellow leaders
 
 One of the best resources for hosting a successful ProtoSchool workshop is the experience of other local leaders. Check out the [discussion tag in our issue queue](https://github.com/ProtoSchool/organizing/issues?q=is%3Aissue+is%3Aopen+label%3Adiscussion) to find conversations about best practices for event planning and more.  For example, there's a discussion issue all about [planning your first ProtoSchool event](https://github.com/ProtoSchool/organizing/issues/33). Feel free to open a new issue to share what's working well for you!
@@ -24,12 +33,6 @@ While you're at it, take a minute to [introduce yourself to your fellow organize
 ### Presentations on managing local communities and leading ProtoSchool workshops
 
 At IPFS Camp in 2019, three of our local organizers -- ([@NukeManDan](https://github.com/NukeManDan) from Denver, USA, [@kk3wong](https://github.com/kk3wong) from Hong Kong, and [@stefanhans](https://github.com/stefanhans) from Munich --  Germany) led an elective workshop on [**stewarding a local IPFS community**](https://github.com/ipfs/camp/blob/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_F/README.md), which included tips both for leading effective ProtoSchool workshops and running local Meetup groups.  Check out the [slides](https://docs.google.com/presentation/d/1OLmSfOMjffl7z2ODxHaBcQBmyVEGdt8O7h3bxYv_VVI/edit#slide=id.g4c43915634_2_51)!
-
-### ProtoSchool community call
-
-All local event leaders, tutorial authors, and other contributors to the ProtoSchool community are welcome on the  [ProtoSchool community call](https://github.com/ProtoSchool/organizing/issues/47), where we share updates on the steps we're taking to make it easy to get started with decentralized web technologies through both our online tutorials and our local events. Listen in to hear what the project maintainers are working on or share updates from your local workshops. Check out the call's [GitHub issue](https://github.com/ProtoSchool/organizing/issues/47) to find video recordings and meeting notes from from past calls, as well as announcements of upcoming calls, or access the meeting invite on the [IPFS Community Calendar](https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84@group.calendar.google.com&ctz=UTC). The call is open to all and is typically held on Thursdays at at 15:30 UTC (roughly March - October) or 16:30 UTC (roughly November - February), based on season. Please check the issue or calendar above to confirm the current time.
-
-You can find links to meeting notes and recordings of past calls in our [archive](https://github.com/ProtoSchool/roadmap/blob/master/meeting-notes/meeting-notes-and-recordings.md), or view all ProtoSchool videos in our [YouTube playlist](https://www.youtube.com/playlist?list=PLuhRWgmPaHtSOTRjgIj2s9wrkItxzA36P).
 
 ### Tips for creating a welcoming and inclusive environment
 
