@@ -6,7 +6,7 @@ ProtoSchool is an educational community dedicated to making it easy to get start
 
 ProtoSchool has two main initiatives:
 
--   Building and maintaining tutorials that teach about the protocols underlying the decentralized web, hosted at <https://proto.school/#/>
+-   Building and maintaining tutorials that teach about the protocols underlying the decentralized web, hosted at <https://proto.school/>
 -   Organizing educational events around the world
 
 As a community, we support the following principles:
@@ -25,7 +25,7 @@ We also take a _lot_ of inspiration from [NodeSchool](https://nodeschool.io/). (
 
 ### Ways to contribute
 
-We welcome new contributors to the ProtoSchool community and there are many ways to help, regardless of your technical background. Check out our website for the [many ways to contribute](https://proto.school/#/contribute).
+We welcome new contributors to the ProtoSchool community and there are many ways to help, regardless of your technical background. Check out our website for the [many ways to contribute](https://proto.school/contribute).
 
 You'll find relevant project info split across a variety of repos:
 

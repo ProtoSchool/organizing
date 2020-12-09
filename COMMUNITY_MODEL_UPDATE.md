@@ -9,19 +9,19 @@ either one-off or embedded in a variety of existing educational groups,
 with a lower barrier to entry for event leaders. We'll no longer limit the number of groups in a city that can host ProtoSchool content. We expect these changes to lead to an increase in the number of ProtoSchool workshops hosted and the number of learners discovering our content through a variety of community groups around the globe.
 
 ## What this means for learners
-Learners can now find all upcoming ProtoSchool workshops listed on our [events page](https://proto.school/#/events). These may include  workshops hosted by Meetup groups, attached to conferences, or presented as standalone events. Each event listing includes links to the event's registration page and Code of Conduct. It also includes a link to learn more about the organization hosting the event, as an opportunity to discover non-ProtoSchool content they might also offer. If the event is co-located with a conference, there's also a link to learn more about the broader conference.
+Learners can now find all upcoming ProtoSchool workshops listed on our [events page](https://proto.school/events). These may include  workshops hosted by Meetup groups, attached to conferences, or presented as standalone events. Each event listing includes links to the event's registration page and Code of Conduct. It also includes a link to learn more about the organization hosting the event, as an opportunity to discover non-ProtoSchool content they might also offer. If the event is co-located with a conference, there's also a link to learn more about the broader conference.
 
 <img width="250" alt="Event Card Screenshot" src="./readme_screenshots/event_card.png">
 
-With this new model, learners now see events hosted by a broader variety of groups in their region, and they no longer run the risk of discovering an inactive group when following a link from our chapters page to a chapter repository. However, our [archived chapter listings](https://proto.school/#/chapters) will remain accessible through the end of April.
+With this new model, learners now see events hosted by a broader variety of groups in their region, and they no longer run the risk of discovering an inactive group when following a link from our chapters page to a chapter repository. However, our [archived chapter listings](https://proto.school/chapters) will remain accessible through the end of April.
 
 ## What this means for event organizers
-The new event-based model creates a lower barrier to entry for local event leaders. If you're looking to host ProtoSchool workshops, you no longer need to apply to start a chapter. Simply review the [event guidelines](./README.md#protoschool-workshops) and [submit your qualifying event](https://forms.gle/t1iEzpQAFSYHhpBr9) for inclusion on our website. We'll check your links thoroughly to ensure the event meets our guidelines and then add it to our new [events page](https://proto.school/#/events).
+The new event-based model creates a lower barrier to entry for local event leaders. If you're looking to host ProtoSchool workshops, you no longer need to apply to start a chapter. Simply review the [event guidelines](./README.md#protoschool-workshops) and [submit your qualifying event](https://forms.gle/t1iEzpQAFSYHhpBr9) for inclusion on our website. We'll check your links thoroughly to ensure the event meets our guidelines and then add it to our new [events page](https://proto.school/events).
 
 Local leaders may incorporate ProtoSchool workshops based on our tutorials into the curriculum of an existing educational group or may host a one-off ProtoSchool workshop at a conference or campus event. There's no commitment to hosting multiple events over time, although we expect that including our content in longstanding Meetups will continue to be the most common approach. **Learn more about the [many models of event leadership](./README.md#hosting-protoschool-workshops) that can incorporate ProtoSchool workshops.**
 
 ### The ProtoSchool name applies to content, not groups
-With this move away from the chapter model, **the ProtoSchool name now refers only to events that meet our [event guidelines](./README.md#event-guidelines) and teach our [tutorial content](https://proto.school/#/tutorials)**, regardless of who hosts them. It will **no longer be used to apply to the groups hosting those events** (formerly known as ProtoSchool chapters), and we'll no longer limit the number of groups in a city that can host ProtoSchool workshops.
+With this move away from the chapter model, **the ProtoSchool name now refers only to events that meet our [event guidelines](./README.md#event-guidelines) and teach our [tutorial content](https://proto.school/tutorials)**, regardless of who hosts them. It will **no longer be used to apply to the groups hosting those events** (formerly known as ProtoSchool chapters), and we'll no longer limit the number of groups in a city that can host ProtoSchool workshops.
 
 If you run a group that sometimes leads ProtoSchool workshops and sometimes teaches other content, that's great! In fact, our survey showed that it's our most common approach to local event leadership, and the new event-based model supports it. Moving forward, you'll need to submit only those events focused on ProtoSchool for inclusion on our site, and you can refer to those as ProtoSchool workshops when you announce them. **Your group name and your announcements for other events that don't meet our guidelines shouldn't reference ProtoSchool**.
 
@@ -31,7 +31,7 @@ In the chapter-based model, all local leaders had to set up a new GitHub repo to
 Under the new event-based model, you should feel free to use whatever systems best meet the needs of your group or event. When you submit an event for inclusion on our website, you'll be able to provide links to whatever registration system and group or conference websites work best for you.
 
 #### Phasing out chapter listings and chapter repos
-The chapter repos required by the old system are no longer needed. However, **we'll continue to host an [archived version of our chapter listings](https://proto.school/#/chapters) through the end of April**, ensuring that learners can continue to discover your chapter repo through that link until then and that you'll have sufficient time to decide what tools you'd like to use moving forward.
+The chapter repos required by the old system are no longer needed. However, **we'll continue to host an [archived version of our chapter listings](https://proto.school/chapters) through the end of April**, ensuring that learners can continue to discover your chapter repo through that link until then and that you'll have sufficient time to decide what tools you'd like to use moving forward.
 
 As always, if you prefer that your chapter listing link to a website for your group instead of your GitHub repo, you may submit a pull request to the [ProtoSchool website repo](https://github.com/ProtoSchool/protoschool.github.io) to update your listing in the [`chapters.json`](https://github.com/ProtoSchool/protoschool.github.io/blob/code/src/static/chapters.json) file, found at `src/static/chapters.json`. Adding a `website` field with a valid URL to your JSON object will cause your chapter listing to link to the website provided instead of to the URL listed in the `repo` field. For example:
 
@@ -47,7 +47,7 @@ As always, if you prefer that your chapter listing link to a website for your gr
   "twitter": "sfprotoschool"
 }
 ```
-After April, the chapters page will be removed from our website and learners will discover your group exclusively through our [events page](https://proto.school/#/events). (We'll provide a redirect for any visitors looking for the old chapters page.)
+After April, the chapters page will be removed from our website and learners will discover your group exclusively through our [events page](https://proto.school/events). (We'll provide a redirect for any visitors looking for the old chapters page.)
 
 **At the end of April, chapter repos in the ProtoSchool GitHub organization will either be archived or have their ownership transferred, based on your preference:**
 

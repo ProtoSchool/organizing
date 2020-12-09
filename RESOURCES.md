@@ -17,11 +17,11 @@ Leading a local ProtoSchool workshop? This is a place for you to find resources,
 
 ### ProtoSchool Newsletter
 
-[Subscribe to the ProtoSchool newsletter](https://proto.school/#/news), being sure to check the box to receive local leadership updates. These targeted, occasional emails will include tips on hosting events, presentation resources, info on any new swag, etc.
+[Subscribe to the ProtoSchool newsletter](https://proto.school/news), being sure to check the box to receive local leadership updates. These targeted, occasional emails will include tips on hosting events, presentation resources, info on any new swag, etc.
 
 <img src="https://user-images.githubusercontent.com/19171465/86145956-96d3ad80-bac5-11ea-8a26-a9028f2d43c1.png" height="200" />
 
-Please share newsletter link (https://proto.school/#/news) at your local events so that attendees can stay up to date as well. Those who don't check the box for leadership updates will receive emails only when we launch new tutorials or major site features. 
+Please share newsletter link (https://proto.school/news) at your local events so that attendees can stay up to date as well. Those who don't check the box for leadership updates will receive emails only when we launch new tutorials or major site features. 
 
 
 ### Advice from fellow leaders
