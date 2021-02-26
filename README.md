@@ -3,14 +3,14 @@
 If you're looking for information on hosting ProtoSchool workshops in your community, you're in the right place! Read on to learn more about ProtoSchool's community event model and how you can contribute. It's easier than ever to get started!
 
 **Quick links for local event leaders**:
-- [View upcoming events](https://proto.school/#/events)
+- [View upcoming events](https://proto.school/events)
 - [Add your event to our list](https://forms.gle/t1iEzpQAFSYHhpBr9)
 - [Explore our event resources](./RESOURCES.md)
 
 
 _Not ready to host events quite yet? We'd love your help
-[building new tutorials](https://proto.school/#/build), improving existing ones, answering technical questions, or
-making our documentation more clear. Learn more about the many [ways to contribute](https://proto.school/#/contribute)._
+[building new tutorials](https://proto.school/build), improving existing ones, answering technical questions, or
+making our documentation more clear. Learn more about the many [ways to contribute](https://proto.school/contribute)._
 
 ## ProtoSchool workshops
 
@@ -20,14 +20,14 @@ ProtoSchool is a community-driven effort and is 100% open source. This means tha
 
 ### Event guidelines
 To be defined as ProtoSchool workshop and promoted on our website, an event must:
-- Offer learners the chance to **work through one of the [ProtoSchool tutorials](https://proto.school/#/tutorials)
+- Offer learners the chance to **work through one of the [ProtoSchool tutorials](https://proto.school/tutorials)
 in person with support from mentors**
 - Create a **welcoming and inclusive environment**, supported by a local Code of Conduct aligned with the [global ProtoSchool Code of Conduct](https://github.com/protoschool/organizing/blob/master/CODE_OF_CONDUCT.md)
 - Be **educational**  (not commercial or promotional)
 - Be **not-for-profit** (free or low-cost to attendees)
 
 ### The ProtoSchool name
-The ProtoSchool name applies to events that meet these guidelines, _not_ to the groups that host them.  If you attend an event labelled as ProtoSchool workshop, you can expect to explore [our tutorials](https://proto.school/#/tutorials) there.
+The ProtoSchool name applies to events that meet these guidelines, _not_ to the groups that host them.  If you attend an event labelled as ProtoSchool workshop, you can expect to explore [our tutorials](https://proto.school/tutorials) there.
 
 Most of the community groups that host ProtoSchool workshops (as defined above) also host other educational events that _aren't_ ProtoSchool workshops, from talks on IPFS to hackathons focused on decentralized web apps. While neither those events nor the groups themselves should be labelled with the ProtoSchool name or logo, they both play an important role in the decentralized web ecosystem that we're honored to be a part of. Our ProtoSchool event listings are a great way to discover community groups or dweb conferences near you, and those community groups are a great way for folks around the world to discover our content.
 
@@ -72,12 +72,12 @@ create a more scalable system that encourages ProtoSchool content to be presente
 either one-off or embedded in a variety of existing educational groups,
 with a lower barrier to entry for event leaders. If you previously attended
 events through a ProtoSchool chapter, you'll now find their upcoming
-ProtoSchool workshops listed on our [events page](https://proto.school/#/events),
-including links to learn about other content the group might offer. (You'll be able to access our [archived chapter listings](https://proto.school/#/chapters) through the end of April.)
+ProtoSchool workshops listed on our [events page](https://proto.school/events),
+including links to learn about other content the group might offer. (You'll be able to access our [archived chapter listings](https://proto.school/chapters) through the end of April.)
 
 If you're looking to host ProtoSchool workshops, you no longer need to apply to start a chapter. Simply review the [event guidelines](#protoschool-workshops) above and [submit your qualifying event](https://forms.gle/t1iEzpQAFSYHhpBr9) for inclusion on our website.
 
-With this move away from the chapter model, the ProtoSchool name now refers only to events that meet our [event guidelines](#protoschool-workshops) and teach our [tutorial content](https://proto.school/#/tutorials), regardless of who hosts them. It will no longer be used to apply to the groups hosting those events (formerly known as ProtoSchool chapters).
+With this move away from the chapter model, the ProtoSchool name now refers only to events that meet our [event guidelines](#protoschool-workshops) and teach our [tutorial content](https://proto.school/tutorials), regardless of who hosts them. It will no longer be used to apply to the groups hosting those events (formerly known as ProtoSchool chapters).
 
 If you previously led a ProtoSchool chapter, you can find [more context on the change here](./COMMUNITY_MODEL_UPDATE.md).
 
