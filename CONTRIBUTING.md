@@ -33,17 +33,6 @@ You'll find relevant project info split across a variety of repos:
 -   [`protoschool.github.io` repo](https://github.com/protoschool/protoschool.github.io): website and tutorial development
 -   [`roadmap` repo](https://github.com/protoschool/roadmap): project roadmap and objectives
 
-### Project leadership
-
-Project Lead:
-
--   Teri Chadbourne (@terichadbourne)
-
-Website Maintainers:
-
--   Teri Chadbourne (@terichadbourne)
--   José Bateira (@zebateira)
-
 ### Getting in touch
 
 We use GitHub to organize ProtoSchool. The best way to get in touch with questions is to open an issue in the appropriate GitHub repository, as noted in the list above. For Code of Conduct reports issues that don't fit one of these categories, please [email the project maintainers](mailto:protoschool@protocol.ai).
